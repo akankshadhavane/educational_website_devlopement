@@ -7,7 +7,7 @@ Welcome to SHIKSHA, an educational website designed to help students with their 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
-- [Contact](#contact)
+
 
 ## Introduction
 SHIKSHA-A is an initiative to support students in their academic journey. The website offers a collection of handwritten notes, course information, and career guidance. It is a one-stop resource for students preparing for placements and interviews.
