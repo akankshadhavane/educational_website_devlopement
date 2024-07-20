@@ -14,7 +14,7 @@ SHIKSHA-A is an initiative to support students in their academic journey. The we
 
 ## Features
 - **Notes and Study Materials:** Access to handwritten notes for subjects like SQL, Python, Java, Data Structures, DBMS, and Aptitude.
-- **Course Information:** Brief information about faculty, student achievements, industrial visits, and related details.
+
 - **Career Roadmaps:** Guidance for specific career paths.
 - **My Drive Folder Links:** Direct links to Google Drive folders containing study materials.
 
